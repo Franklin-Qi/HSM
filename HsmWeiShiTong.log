@@ -1,0 +1,788 @@
+2017-06-13 10:08:10
+SMAPIEncryptPinX98A() failed, pszPlainPin is wrong
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98A() failed, pszPlainPin is wrong
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98A() failed, pszPlainPin is wrong
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98A() failed, pszPlainPin is wrong
+
+
+2017-06-13 10:08:10
+[SMAPIEncryptPinX98A() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:10
+[SMAPIEncryptPinX98A() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98A() parameter nAlgo is invalid
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98A() parameter nAlgo is invalid
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98B() plain PIN length is invalid
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98B() plain PIN length is invalid
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98B() failed, pszPlainPin is wrong
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98B() failed, pszPlainPin is wrong
+
+
+2017-06-13 10:08:10
+[SMAPIEncryptPINX98B() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:10
+[SMAPIEncryptPINX98B() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98B() parameter nPanLen is invalid
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98B() parameter nPanLen is invalid
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98B() failed, pszPan is wrong
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98B() failed, pszPan is wrong
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98B() failed, pszPan is wrong
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98B() parameter nAlgo is invalid
+
+
+2017-06-13 10:08:10
+SMAPIEncryptPinX98B() parameter nAlgo is invalid
+
+
+2017-06-13 10:08:10
+[SMAPIDecryptPinX98A() call ok, pinlen=]
+Hex = 3 Dec = 3
+
+
+2017-06-13 10:08:10
+[SMAPIDecryptPinX98A() call ok, pinlen=]
+Hex = d Dec = 13
+
+
+2017-06-13 10:08:10
+[SMAPIDecryptPinX98A() call ok, pinlen=]
+Hex = c1 Dec = 193
+
+
+2017-06-13 10:08:10
+[SMAPIDecryptPinX98A() call ok, pinlen=]
+Hex = 1 Dec = 1
+
+
+2017-06-13 10:08:10
+[SMAPIDecryptPinX98A() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:10
+[SMAPIDecryptPinX98A() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:10
+SMAPIDecryptPinX98A() nAlgo is invalid
+
+
+2017-06-13 10:08:10
+SMAPIDecryptPinX98A() nAlgo is invalid
+
+
+2017-06-13 10:08:10
+SMAPIDecryptPINX98B() failed, plain pin is wrong
+
+
+2017-06-13 10:08:10
+SMAPIDecryptPINX98B() failed, plain pin is wrong
+
+
+2017-06-13 10:08:10
+SMAPIDecryptPINX98B() failed, plain pin is wrong
+
+
+2017-06-13 10:08:10
+SMAPIDecryptPINX98B() failed, plain pin is wrong
+
+
+2017-06-13 10:08:10
+[SMAPIDecryptPINX98B() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+[SMAPIDecryptPINX98B() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+SMAPIDecryptPinX98B() parameter nPanLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPIDecryptPinX98B() parameter nPanLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPIDecryptPINX98B() failed, pszPan is wrong
+
+
+2017-06-13 10:08:11
+SMAPIDecryptPINX98B() failed, pszPan is wrong
+
+
+2017-06-13 10:08:11
+SMAPIDecryptPINX98B() failed, pszPan is wrong
+
+
+2017-06-13 10:08:11
+SMAPIDecryptPINX98B() parameter nAlgo is invalid
+
+
+2017-06-13 10:08:11
+SMAPIDecryptPINX98B() parameter nAlgo is invalid
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() failed, nAlgo is wrong ]
+Hex = 0 Dec = 0
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() failed, nAlgo is wrong ]
+Hex = 4 Dec = 4
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() failed, nMakLen is wrong ]
+Hex = 0 Dec = 0
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() failed, nMakLen is wrong ]
+Hex = 18 Dec = 24
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+SMAPICalcMac() failed, pbMacKey is wrong
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+SMAPICalcMac() failed, pbMacKey is wrong
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+[SMAPICalcMac() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+[SMAPITranslateBlock() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+[SMAPITranslateBlock() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+SMAPITranslateBlock() nAlgo1 is invalid
+
+
+2017-06-13 10:08:11
+SMAPITranslateBlock() nAlgo1 is invalid
+
+
+2017-06-13 10:08:11
+SMAPITranslateBlock() nAlgo2 is invalid
+
+
+2017-06-13 10:08:11
+SMAPITranslateBlock() nAlgo2 is invalid
+
+
+2017-06-13 10:08:11
+[SMAPITranslateKeyOutOf() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+[SMAPITranslateKeyOutOf() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+SMAPITranslateKeyOutOf() nAlgo is invalid
+
+
+2017-06-13 10:08:11
+SMAPITranslateKeyOutOf() nAlgo is invalid
+
+
+2017-06-13 10:08:11
+SMAPITranslateKeyOutOf() nKeyLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPITranslateKeyOutOf() nKeyLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPITranslateKeyOutOf() nKeyLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPITranslateKeyOutOf() nKeyLen is invalid
+
+
+2017-06-13 10:08:11
+[SMAPITranslateKeyInTo() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+[SMAPITranslateKeyInTo() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+SMAPITranslateKeyInTo() nAlgo is invalid
+
+
+2017-06-13 10:08:11
+SMAPITranslateKeyInTo() nAlgo is invalid
+
+
+2017-06-13 10:08:11
+SMAPITranslateKeyInTo() nKeyLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPITranslateKeyInTo() nKeyLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPITranslateKeyInTo() nKeyLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPITranslateKeyInTo() nKeyLen is invalid
+
+
+2017-06-13 10:08:11
+[SMAPIGenerateKey() call failed, errno=]
+Hex = 22 Dec = 34
+
+
+2017-06-13 10:08:11
+[SMAPIGenerateKey() call failed, errno=]
+Hex = 22 Dec = 34
+
+
+2017-06-13 10:08:11
+[SMAPIGenerateKey() call failed, errno=]
+Hex = 22 Dec = 34
+
+
+2017-06-13 10:08:11
+[SMAPIGenerateKey() call failed, errno=]
+Hex = 22 Dec = 34
+
+
+2017-06-13 10:08:11
+[SMAPIGenerateKey() call failed, errno=]
+Hex = 22 Dec = 34
+
+
+2017-06-13 10:08:11
+[SMAPIRevalBlock() call failed, errno=]
+Hex = 5 Dec = 5
+
+
+2017-06-13 10:08:11
+SMAPIEncryptKey() failed, the socket is invalid
+
+
+2017-06-13 10:08:11
+[SMAPIEncryptKey() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+SMAPIEncryptKey() nKeyLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPIEncryptKey() nKeyLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPIEncryptKey() nKeyLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPIEncryptKey() nKeyLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPIEncryptKey() nKeyLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPIEncryptBlock() failed, the socket is invalid
+
+
+2017-06-13 10:08:11
+[SMAPIEncryptBlock() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+SMAPIEncryptBlock() failed, the nAlgo is invalid
+
+
+2017-06-13 10:08:11
+SMAPIEncryptBlock() failed, the nAlgo is invalid
+
+
+2017-06-13 10:08:11
+[SMAPIEncryptBlock() call failed, errno=]
+Hex = 27 Dec = 39
+
+
+2017-06-13 10:08:11
+SMAPIEncryptBlock() failed, the nBlockLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPIEncryptBlock() failed, the nBlockLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPIEncryptBlock() failed, the nBlockLen is invalid
+
+
+2017-06-13 10:08:11
+[SMAPIDecryptBlock() call failed, errno=]
+Hex = 7 Dec = 7
+
+
+2017-06-13 10:08:11
+SMAPIDecryptBlock() failed, the socket is invalid
+
+
+2017-06-13 10:08:11
+[SMAPIDecryptBlock() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+SMAPIDecryptBlock() failed, the nAlgo is invalid
+
+
+2017-06-13 10:08:11
+SMAPIDecryptBlock() failed, the nAlgo is invalid
+
+
+2017-06-13 10:08:11
+[SMAPIDecryptBlock() call failed, errno=]
+Hex = 27 Dec = 39
+
+
+2017-06-13 10:08:11
+SMAPIDecryptBlock() failed, the nBlockLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPIDecryptBlock() failed, the nBlockLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPIDecryptBlock() failed, the nBlockLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPIEncryptCBC() failed, the socket is invalid
+
+
+2017-06-13 10:08:11
+[SMAPIEncryptCBC() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+SMAPIEncryptCBC() failed, the nAlgo is invalid
+
+
+2017-06-13 10:08:11
+SMAPIEncryptCBC() failed, the nAlgo is invalid
+
+
+2017-06-13 10:08:11
+[SMAPIEncryptCBC() call failed, errno=]
+Hex = 27 Dec = 39
+
+
+2017-06-13 10:08:11
+SMAPIEncryptCBC() failed, the nBlockLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPIEncryptCBC() failed, the nBlockLen is invalid
+
+
+2017-06-13 10:08:11
+SMAPIEncryptCBC() failed, the nBlockLen is invalid
+
+
+2017-06-13 10:08:11
+[SMAPIDecryptCBC() call failed, errno=]
+Hex = 7 Dec = 7
+
+
+2017-06-13 10:08:11
+SMAPIDecryptCBC() failed, the socket is invalid
+
+
+2017-06-13 10:08:11
+[SMAPIDecryptCBC() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:11
+SMAPIDecryptCBC() failed, the nAlgo is invalid
+
+
+2017-06-13 10:08:11
+SMAPIDecryptCBC() failed, the nAlgo is invalid
+
+
+2017-06-13 10:08:11
+[SMAPIDecryptCBC() call failed, errno=]
+Hex = 27 Dec = 39
+
+
+2017-06-13 10:08:11
+SMAPIDecryptCBC() failed, the nBlockLen is invalid
+
+
+2017-06-13 10:08:12
+SMAPIDecryptCBC() failed, the nBlockLen is invalid
+
+
+2017-06-13 10:08:12
+SMAPIDecryptCBC() failed, the nBlockLen is invalid
+
+
+2017-06-13 10:08:12
+SMAPICalCVV() failed, the socket is invalid
+
+
+2017-06-13 10:08:12
+[SMAPICalCVV() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:12
+SMAPICalCVV() failed, pszPan is wrong
+
+
+2017-06-13 10:08:12
+SMAPICalCVV() failed, pszPan is wrong
+
+
+2017-06-13 10:08:12
+SMAPICalCVV() failed, pszPan is wrong
+
+
+2017-06-13 10:08:12
+SMAPICalCVV() failed, the nPanLen is invalid
+
+
+2017-06-13 10:08:12
+SMAPICalCVV() failed, the nPanLen is invalid
+
+
+2017-06-13 10:08:12
+SMAPICalCVV() failed, pszExpireDate is wrong
+
+
+2017-06-13 10:08:12
+SMAPICalCVV() failed, pszServiceCode is wrong
+
+
+2017-06-13 10:08:12
+SMAPICalPVV() failed, the socket is invalid
+
+
+2017-06-13 10:08:12
+[SMAPICalPVV() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:12
+SMAPICalPVV() failed, pszPan is wrong
+
+
+2017-06-13 10:08:12
+SMAPICalPVV() failed, pszPan is wrong
+
+
+2017-06-13 10:08:12
+SMAPICalPVV() failed, pszPan is wrong
+
+
+2017-06-13 10:08:12
+SMAPICalPVV() failed, the nPanLen is invalid
+
+
+2017-06-13 10:08:12
+SMAPICalPVV() failed, the nPanLen is invalid
+
+
+2017-06-13 10:08:12
+[SMAPICalPVV() call failed, errno=]
+Hex = 27 Dec = 39
+
+
+2017-06-13 10:08:12
+[SMAPICalPVV() call failed, errno=]
+Hex = 27 Dec = 39
+
+
+2017-06-13 10:08:12
+SMAPIIBM3624() failed, the socket is invalid
+
+
+2017-06-13 10:08:12
+[SMAPIIBM3624() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:12
+SMAPIIBM3624() failed, pszPan is wrong
+
+
+2017-06-13 10:08:12
+SMAPIIBM3624() failed, pszPan is wrong
+
+
+2017-06-13 10:08:12
+SMAPIIBM3624() failed, pszPan is wrong
+
+
+2017-06-13 10:08:12
+SMAPIIBM3624() parameter nPanLen is invalid
+
+
+2017-06-13 10:08:12
+SMAPIIBM3624() parameter nPanLen is invalid
+
+
+2017-06-13 10:08:12
+SMAPIIBM3624() parameter nPanLen is invalid
+
+
+2017-06-13 10:08:12
+SMAPIIBM3624() parameter nPanLen is invalid
+
+
+2017-06-13 10:08:12
+SMAPIIBM3624() parameter plain PIN length is invalid
+
+
+2017-06-13 10:08:12
+SMAPIIBM3624() parameter plain PIN length is invalid
+
+
+2017-06-13 10:08:12
+SMAPIIBM3624() failed, pszPlainPin is wrong
+
+
+2017-06-13 10:08:12
+SMAPIIBM3624() failed, pszPlainPin is wrong
+
+
+2017-06-13 10:08:12
+SMAPIIBM3624() failed, pszPlainPin is wrong
+
+
+2017-06-13 10:08:12
+SMAPIGenerateRandomDigits() failed, the nDigitNum is invalid
+
+
+2017-06-13 10:08:12
+SMAPIGenerateRandomDigits() failed, the nDigitNum is invalid
+
+
+2017-06-13 10:08:12
+SMAPIGenerateRandomDigits() failed, the nDigitNum is invalid
+
+
+2017-06-13 10:08:12
+SMAPIGenerateRandomDigits() failed, the socket is invalid
+
+
+2017-06-13 10:08:12
+[SMAPIGenerateRandomDigits() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:12
+SMAPIGenerateRandomDigits() failed, the nDigitNum is invalid
+
+
+2017-06-13 10:08:12
+SMAPIVerifyCheckValue() failed, the socket is NULL
+
+
+2017-06-13 10:08:12
+[SMAPIVerifyCheckValue() call failed, errno=]
+Hex = 2 Dec = 2
+
+
+2017-06-13 10:08:12
+[SMAPIVerifyCheckValue() failed, nKeyLen is wrong ]
+Hex = 0 Dec = 0
+
+
+2017-06-13 10:08:12
+[SMAPIVerifyCheckValue() failed, nKeyLen is wrong ]
+Hex = 7 Dec = 7
+
+
+2017-06-13 10:08:12
+[SMAPIVerifyCheckValue() failed, nKeyLen is wrong ]
+Hex = 14 Dec = 20
+
+
+2017-06-13 10:08:12
+[SMAPIVerifyCheckValue() failed, nKeyLen is wrong ]
+Hex = 19 Dec = 25
+
+
+2017-06-13 10:08:12
+[SMAPIVerifyCheckValue() failed, nKeyLen is wrong ]
+Hex = 20 Dec = 32
+
+
+2017-06-13 10:08:12
+SMAPIExpMod() failed, the socket is invalid
+
+
+2017-06-13 10:08:12
+[SMAPIExpMod() call failed, errno=]
+Hex = 2 Dec = 2
+
+

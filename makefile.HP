@@ -1,0 +1,30 @@
+#
+# Create By WWM 2002/09/06
+#
+
+.SUFFIXES:
+.SUFFIXES: .c .o
+
+OBJS = smapi.o unionlog.o  utilpack.o unionsck.o hsmcmd.o
+CC=cc -Ae -D_THREAD_SAFE -D_REENTRANT +z +DD32  
+
+AR = ar
+CFLAG = -O -DUNIX
+LD = ld
+CFLAG_DL= -bdynamic -G -lc
+
+libsmapi56.so :$(OBJS)
+	rm -f ./libsmapi56.so
+	$(LD) $(CFLAG_DL) $(OBJS) -o libsmapi56.so
+	mv libsmapi56.so  ../dlllib/libsmapi56.so
+.c.o:
+	$(CC) -c -qcpluscmt $<
+
+clear:
+	rm -f *.o
+	echo "clear *.o OK"
+
+#
+# End.
+#
+

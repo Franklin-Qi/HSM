@@ -1,0 +1,33 @@
+#
+# Create By WWM 2002/09/06
+#
+
+.SUFFIXES:
+.SUFFIXES:.c.o
+
+OBJS = smapi.o unionlog.o  utilpack.o unionsck.o hsmcmd.o DerCode.o
+CC = cc
+AR = ar
+CFLAG = -O
+LD = ld
+CFLAG_DL= -G -lc -bnoentry -bexpall
+
+all: 	libsmapi56.so 	\
+     	clear
+
+libsmapi56.so :$(null)
+		  @rm -f ./libsmapi56.so
+		  @$(LD) $(CFLAG_DL) $(OBJS) -o libsmapi56.so
+		  mv ./$@ ../dlllib
+		  @echo "form $@ OK"
+.c.o:
+#	$(CC) -c -qcpluscmt $<
+	$(CC) -c $<
+
+clear:
+	@rm -f *.o
+	@echo "clear *.o OK"
+
+#
+# End.
+#

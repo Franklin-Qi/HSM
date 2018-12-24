@@ -1,0 +1,4 @@
+rm unionhsm.log
+make -f hsmapi.mak
+make
+./test

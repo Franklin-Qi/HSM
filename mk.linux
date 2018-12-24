@@ -1,0 +1,29 @@
+#makefile
+all:	hsmapi.a	\
+	libsmapi56.so	\
+	rmtmp
+
+DEFINES=	$(OSSPEC)
+.SUFFIXES:	.c.o
+.c.o:
+	$(CC) $(DEFINES) -c $*.c
+
+
+objs=	smapi.o		\
+	unionlog.o	\
+	utilpack.o	\
+	unionsck.o	\
+	hsmcmd.o	\
+	DerCode.o	\
+
+hsmapi.a:	$(objs)
+	ar $(OSSPECPACK) rv hsmapi.a $(objs)
+
+libsmapi56.so:	$(objs)
+#	$(CC) -fPIC -shared -o libsmapi56.so $(objs)
+	$(CC) $(OSSPEC) -G -o libsmapi56.so $(objs)
+
+
+rmtmp:	$(null)
+	cp libsmapi56.so ../dlllib/
+	rm -rf *.o
